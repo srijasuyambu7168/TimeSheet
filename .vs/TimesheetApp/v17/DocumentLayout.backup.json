@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Migrations\\20250902131451_AddedSto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TimesheetApp\\Migrations\\20250902131451_AddedSto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\frontend\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\frontend\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\frontend\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\frontend\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\frontend\\timesheet.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\frontend\\timesheet.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\frontend\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\frontend\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\timesheetapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\timesheetapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\controllers\\timesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\controllers\\timesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\services\\timesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\services\\timesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\repositories\\timesheetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\repositories\\timesheetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\repositories\\itimesheetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\repositories\\itimesheetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\models\\timesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\models\\timesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\migrations\\20250829044005_timesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\migrations\\20250829044005_timesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\services\\itimesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\services\\itimesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|c:\\users\\srija.suyambu\\source\\repos\\timesheetapp\\timesheetapp\\migrations\\20250901175738_initialcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C489670-E2EE-402E-B37F-0433C287E5EA}|TimesheetApp\\TimesheetApp.csproj|solutionrelative:timesheetapp\\migrations\\20250901175738_initialcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250902131451_AddedSto.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Migrations\\20250902131451_AddedSto.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Migrations\\20250902131451_AddedSto.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Migrations\\20250902131451_AddedSto.cs",
+              "RelativeToolTip": "TimesheetApp\\Migrations\\20250902131451_AddedSto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:14:51.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Models\\LoginDto.cs",
+              "RelativeToolTip": "TimesheetApp\\Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:10:25.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Frontend\\login.html",
+              "RelativeDocumentMoniker": "TimesheetApp\\Frontend\\login.html",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Frontend\\login.html",
+              "RelativeToolTip": "TimesheetApp\\Frontend\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-02T12:29:36.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "TimesheetApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:16:47.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "TimesheetApp\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:36:48.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "TimesheetApp\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:26:08.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Frontend\\register.html",
+              "RelativeDocumentMoniker": "TimesheetApp\\Frontend\\register.html",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Frontend\\register.html",
+              "RelativeToolTip": "TimesheetApp\\Frontend\\register.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-02T12:29:08.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Models\\Employee.cs",
+              "RelativeToolTip": "TimesheetApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:13:21.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TimesheetApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:49:17.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TimesheetApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\appsettings.json",
+              "RelativeToolTip": "TimesheetApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T04:37:35.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Program.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Program.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Program.cs",
+              "RelativeToolTip": "TimesheetApp\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:35:27.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "timesheet.html",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Frontend\\timesheet.html",
+              "RelativeDocumentMoniker": "TimesheetApp\\Frontend\\timesheet.html",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Frontend\\timesheet.html",
+              "RelativeToolTip": "TimesheetApp\\Frontend\\timesheet.html",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-01T17:53:56.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Frontend\\script.js",
+              "RelativeDocumentMoniker": "TimesheetApp\\Frontend\\script.js",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Frontend\\script.js",
+              "RelativeToolTip": "TimesheetApp\\Frontend\\script.js",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-01T17:54:21.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250901175738_InitialCreat.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Migrations\\20250901175738_InitialCreat.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Migrations\\20250901175738_InitialCreat.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Migrations\\20250901175738_InitialCreat.cs",
+              "RelativeToolTip": "TimesheetApp\\Migrations\\20250901175738_InitialCreat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T17:57:38.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TimesheetService.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Services\\TimesheetService.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Services\\TimesheetService.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Services\\TimesheetService.cs",
+              "RelativeToolTip": "TimesheetApp\\Services\\TimesheetService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:34:15.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TimesheetController.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Controllers\\TimesheetController.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Controllers\\TimesheetController.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Controllers\\TimesheetController.cs",
+              "RelativeToolTip": "TimesheetApp\\Controllers\\TimesheetController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:12:13.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TimesheetApp.csproj",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\TimesheetApp.csproj",
+              "RelativeDocumentMoniker": "TimesheetApp\\TimesheetApp.csproj",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\TimesheetApp.csproj",
+              "RelativeToolTip": "TimesheetApp\\TimesheetApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T04:29:26.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TimesheetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Repositories\\TimesheetRepository.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Repositories\\TimesheetRepository.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Repositories\\TimesheetRepository.cs",
+              "RelativeToolTip": "TimesheetApp\\Repositories\\TimesheetRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:26:31.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITimesheetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Repositories\\ITimesheetRepository.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Repositories\\ITimesheetRepository.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Repositories\\ITimesheetRepository.cs",
+              "RelativeToolTip": "TimesheetApp\\Repositories\\ITimesheetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:26:19.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Timesheet.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Models\\Timesheet.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Models\\Timesheet.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Models\\Timesheet.cs",
+              "RelativeToolTip": "TimesheetApp\\Models\\Timesheet.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:13:45.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250829044005_Timesheet.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Migrations\\20250829044005_Timesheet.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Migrations\\20250829044005_Timesheet.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Migrations\\20250829044005_Timesheet.cs",
+              "RelativeToolTip": "TimesheetApp\\Migrations\\20250829044005_Timesheet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:40:05.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITimesheetService.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Services\\ITimesheetService.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Services\\ITimesheetService.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Services\\ITimesheetService.cs",
+              "RelativeToolTip": "TimesheetApp\\Services\\ITimesheetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:33:05.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "TimesheetApp\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:25:53.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "TimesheetApp\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\srija.suyambu\\source\\repos\\TimesheetApp\\TimesheetApp\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "TimesheetApp\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:36:23.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
